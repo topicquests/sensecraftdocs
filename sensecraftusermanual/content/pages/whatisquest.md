@@ -3,6 +3,10 @@ save_as: whatisquest.html
 menulabel:
 menuorder:
 
+### Parent
+![]({static}/images/ibis/issue_sm.png) [What is Sensecraft?](whatissensecraft.html)
+
+### Details
 A Quest is used to define a *truth-seeking mission*. That is, a Quest is a well-posed question that serves to anchor conversations seeking answers, driving towards the best possible justifications for those answers.
 
 Those conversations necessarily include debate, which takes the form of Pro and Con arguments and the justifications for those arguments.
