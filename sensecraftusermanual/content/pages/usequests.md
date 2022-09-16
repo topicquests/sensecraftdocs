@@ -15,4 +15,4 @@ We explore the SenseCraft questing game platform as a Quest itself. Our goal is 
 * [What is SenseCraft?](whatissensecraft.html)
 {.issue}
 * [How to use SenseCraft?](howsensecraft.html)
-{.position}
+{.issue}
