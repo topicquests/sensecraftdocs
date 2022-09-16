@@ -2,6 +2,7 @@ title: How to use SenseCraft Quests?
 save_as: howsensecraft.html
 menulabel:
 menuorder:
+![]({static}/images/ibis/issue.png)
 
 ### Parent
 ![]({static}/images/ibis/issue_sm.png) [How to use SenseCraft Quests?](usequests.html)

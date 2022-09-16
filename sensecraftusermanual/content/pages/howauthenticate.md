@@ -2,6 +2,8 @@ title: How does Sensecraft deal with Authentication?
 save_as: howauthenticate.html
 menulabel:
 menuorder:
+![]({static}/images/ibis/issue.png)
+
 ### Parent
 ![]({static}/images/ibis/issue_sm.png) [How to use SenseCraft Quests?](howsensecraft.html)
 

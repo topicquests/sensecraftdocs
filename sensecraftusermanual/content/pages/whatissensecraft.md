@@ -2,6 +2,8 @@ title: What is SenseCraft?
 save_as: whatissensecraft.html
 menulabel:
 menuorder:
+![]({static}/images/ibis/issue.png)
+![]({static}/images/khub.png)
 
 ### Parent
 ![]({static}/images/ibis/issue_sm.png) [How to use SenseCraft Quests?](usequests.html)

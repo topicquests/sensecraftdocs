@@ -2,6 +2,7 @@ title: What are Guild Roles?
 save_as: whatareroles.html
 menulabel:
 menuorder:
+![]({static}/images/ibis/issue.png)
 
 ### Parent
 ![]({static}/images/ibis/issue_sm.png) [What is a Guild?](whatisguild.html)
