@@ -2,6 +2,8 @@ title: How does Sensecraft deal with Authentication?
 save_as: howauthenticate.html
 menulabel:
 menuorder:
+lang: en
+
 ![]({static}/images/ibis/issue.png)
 
 ### Parent

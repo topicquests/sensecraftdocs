@@ -2,6 +2,8 @@ title: How to join a Guild?
 save_as: howjoinguild.html
 menulabel:
 menuorder:
+lang: en
+
 ![]({static}/images/ibis/issue.png)
 
 ### Parent

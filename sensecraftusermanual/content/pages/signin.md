@@ -1,7 +1,9 @@
 title: Authenticate with Signin
 save_as: signin.html
+lang: en
 menulabel:
 menuorder:
+
 ![]({static}/images/ibis/position.png)
 ![]({static}/images/image033.png)
 

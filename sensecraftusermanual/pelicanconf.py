@@ -1,3 +1,5 @@
+import os
+
 AUTHOR = '2022 TopicQuests Foundation, Conversence'
 SITENAME = 'SenseCraft Manual'
 SITEURL = ''
@@ -20,8 +22,9 @@ MARKDOWN = {
 PAGES_SORT_ATTRIBUTE = 'menuorder'
 
 DEFAULT_LANG = 'en'
-PLUGIN_PATHS = ['/Users/jackpark/Documents/gitprojects6/pelican-plugins']
-THEME = '/Users/jackpark/Documents/gitprojects6/pelican-themes/pelican-bootstrap3'
+
+PLUGIN_PATHS = [os.environ['PELICAN_PLUGINS_PATH']]
+THEME = os.environ['PELICAN_THEMES_PATH'] + '/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'simplex'
 PLUGINS = ['i18n_subsites']
 # Feed generation is usually not desired when developing
@@ -30,6 +33,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+STATIC_PATHS = ['css']
+CUSTOM_CSS = SITEURL + '/css/extra.css'
 
 # Blogroll
 LINKS = (('User Guide', 'usequests.html'),

@@ -1,10 +1,13 @@
 title: What is a Quest?
 save_as: whatisquest.html
+lang: en
 menulabel:
 menuorder:
+
 ![]({static}/images/ibis/issue.png)
 
 ### Parent
+
 ![]({static}/images/ibis/issue_sm.png) [What is Sensecraft?](whatissensecraft.html)
 
 ### Details

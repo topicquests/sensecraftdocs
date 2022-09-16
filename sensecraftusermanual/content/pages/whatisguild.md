@@ -1,10 +1,13 @@
 title: What is a Guild?
 save_as: whatisguild.html
+lang: en
 menulabel:
 menuorder:
+
 ![]({static}/images/ibis/issue.png)
 
 ### Parent
+
 ![]({static}/images/ibis/issue_sm.png) [What is Sensecraft?](whatissensecraft.html)
 
 In the context of global-scale conversations, the *Dunbar Number* suggests limiting the number of people in a local portion of that conversation to a small number, and within that number, group still into smaller groups.

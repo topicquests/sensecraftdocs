@@ -1,7 +1,9 @@
 title: What are Guild Roles?
 save_as: whatareroles.html
+lang: en
 menulabel:
 menuorder:
+
 ![]({static}/images/ibis/issue.png)
 
 ### Parent

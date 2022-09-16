@@ -1,7 +1,9 @@
 title: How to use SenseCraft Quests?
 save_as: usequests.html
+lang: en
 menulabel:
 menuorder:
+
 ![]({static}/images/ibis/issue.png)
 ![]({static}/images/image013.png)
 

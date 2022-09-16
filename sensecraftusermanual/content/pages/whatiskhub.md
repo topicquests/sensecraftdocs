@@ -1,10 +1,12 @@
 title: What is a Knowing Hub (K-Hub)?
 save_as: whatiskhub.html
+lang: en
 menulabel:
 menuorder:
 ![]({static}/images/ibis/issue.png)
 
 ### Parent
+
 ![]({static}/images/ibis/issue_sm.png) [What is Sensecraft?](whatissensecraft.html)
 
 ### Details
