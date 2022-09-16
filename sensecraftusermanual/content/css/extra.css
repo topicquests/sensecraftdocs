@@ -1,0 +1,8 @@
+
+.issue::before {
+  content: url('../images/ibis/issue_sm.png')
+}
+
+.position::before {
+  content: url('../images/ibis/position_sm.png')
+}

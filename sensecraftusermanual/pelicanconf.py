@@ -12,6 +12,7 @@ JINJA_ENVIRONMENT = {
 }
 
 MARKDOWN = {
+    'extensions': ['wikilinks', 'attr_list'],
     'extension_configs': {
         'markdown.extensions.wikilinks': {
             'base_url': './',
