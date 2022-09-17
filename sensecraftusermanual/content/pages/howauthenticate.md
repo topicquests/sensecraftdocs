@@ -5,8 +5,7 @@ menuorder:
 lang: en
 contentclass: content-issue
 
-### Parent
-![]({static}/images/ibis/issue_sm.png) [How to use SenseCraft Quests?](howsensecraft.html)
+### Parent: [How to use SenseCraft Quests?](./howsensecraft.html){.issue}
 
 ### Details
 Authentication is the process of identifying yourself to the system. SenseCraft seeks to implement strong authentication as a safeguard against bad actors entering the K-Hub. 
@@ -17,6 +16,8 @@ The process is:
 * Authenticate (Login) with the email and password for your account
 
 ### Responses
-![]({static}/images/ibis/position_sm.png) [Register an account with Signup](signup.html)
 
-![]({static}/images/ibis/position_sm.png) [Authenticate with Signin](signin.html)
+* [Register an account with Signup](./signup.html)
+{.position}
+* [Authenticate with Signin](./signin.html)
+{.position}

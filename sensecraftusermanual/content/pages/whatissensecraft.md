@@ -9,7 +9,7 @@ contentclass: content-issue
 
 ### Parent
 
-![]({static}/images/ibis/issue_sm.png) [How to use SenseCraft Quests?](usequests.html)
+![]({static}/images/ibis/issue_sm.png) [How to use SenseCraft Quests?](./usequests.html)
 
 ### Details
 
@@ -19,10 +19,10 @@ SenseCraft is fundamentally a Web portal known as a *Knowing Hub* (K-Hub). A K-H
 
 ### Responses
 
-![]({static}/images/ibis/issue_sm.png) [What is a K-Hub?](whatiskhub.html)
+![]({static}/images/ibis/issue_sm.png) [What is a K-Hub?](./whatiskhub.html)
 
-![]({static}/images/ibis/issue_sm.png) [What is a Quest?](whatisquest.html)
+![]({static}/images/ibis/issue_sm.png) [What is a Quest?](./whatisquest.html)
 
-![]({static}/images/ibis/issue_sm.png) [What is a Guild?](whatisguild.html)
+![]({static}/images/ibis/issue_sm.png) [What is a Guild?](./whatisguild.html)
 
 
