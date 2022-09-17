@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "7cd0fa76cca249a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "78edbc28bf996ac6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "sensecraftusermanual/content/pages/jonathan/first steps.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7303980730b7e3c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "191e88b6d784d598",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63eb652561a67a8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "05490539d58685ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "396d997ba08ad19d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e49261c5f65cbf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc116dd7a8d1d418",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca7a5dbe9d2dcb77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sensecraftusermanual/content/pages/jonathan/first steps.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abc347dbb06c9ea6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sensecraftusermanual/content/pages/jonathan/first steps.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eda103544c4b13d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "869d658a22ab24bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sensecraftusermanual/content/pages/jonathan/first steps.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "78edbc28bf996ac6",
+  "lastOpenFiles": [
+    "sensecraftusermanual/content/images/khub.png",
+    "sensecraftusermanual/content/images/image033.png",
+    "sensecraftusermanual/content/images/image031.png",
+    "sensecraftusermanual/content/images/image027.png",
+    "sensecraftusermanual/content/images/image025.png",
+    "sensecraftusermanual/content/images/image013.png",
+    "sensecraftusermanual/content/images/image008.jpg",
+    "sensecraftusermanual/content/images/image007.png",
+    "sensecraftusermanual/content/images/image006.jpg",
+    "sensecraftusermanual/content/images/image005.png"
+  ]
+}

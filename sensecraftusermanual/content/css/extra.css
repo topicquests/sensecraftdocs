@@ -28,3 +28,7 @@ h3.position::before {
   content: url('../images/ibis/position.png');
   margin-right: 0.5ex;
 }
+
+body {
+  font-family: Times;
+}

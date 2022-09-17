@@ -38,7 +38,7 @@ STATIC_PATHS = ['css']
 CUSTOM_CSS = SITEURL + '/css/extra.css'
 
 # Blogroll
-LINKS = (('User Guide', 'usequests.html'),
+LINKS = (('User Guide', 'usequests.html'), ('Jonathan', 'jonathan/jonathan.version.html'),
 )
 # Social widget
 # SOCIAL = (('You can add links in your config file', '#'),
