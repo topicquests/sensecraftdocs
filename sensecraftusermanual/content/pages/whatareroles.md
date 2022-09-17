@@ -3,8 +3,7 @@ save_as: whatareroles.html
 lang: en
 menulabel:
 menuorder:
-
-![]({static}/images/ibis/issue.png)
+contentclass: content-issue
 
 ### Parent
 ![]({static}/images/ibis/issue_sm.png) [What is a Guild?](whatisguild.html)

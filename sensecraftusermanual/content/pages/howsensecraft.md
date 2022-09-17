@@ -3,8 +3,7 @@ save_as: howsensecraft.html
 menulabel:
 menuorder:
 lang: en
-
-![]({static}/images/ibis/issue.png)
+contentclass: content-issue
 
 ### Parent
 

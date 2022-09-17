@@ -3,8 +3,7 @@ save_as: whatisquest.html
 lang: en
 menulabel:
 menuorder:
-
-![]({static}/images/ibis/issue.png)
+contentclass: content-issue
 
 ### Parent
 

@@ -3,8 +3,8 @@ save_as: whatisguild.html
 lang: en
 menulabel:
 menuorder:
+contentclass: content-issue
 
-![]({static}/images/ibis/issue.png)
 
 ### Parent
 

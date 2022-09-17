@@ -3,8 +3,7 @@ save_as: howauthenticate.html
 menulabel:
 menuorder:
 lang: en
-
-![]({static}/images/ibis/issue.png)
+contentclass: content-issue
 
 ### Parent
 ![]({static}/images/ibis/issue_sm.png) [How to use SenseCraft Quests?](howsensecraft.html)

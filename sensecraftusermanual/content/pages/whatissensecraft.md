@@ -3,8 +3,8 @@ save_as: whatissensecraft.html
 menulabel:
 menuorder:
 lang: en
+contentclass: content-issue
 
-![]({static}/images/ibis/issue.png)
 ![]({static}/images/khub.png)
 
 ### Parent

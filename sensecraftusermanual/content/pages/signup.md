@@ -3,8 +3,8 @@ save_as: signup.html
 lang: en
 menulabel:
 menuorder:
+contentclass: content-position
 
-![]({static}/images/ibis/position.png)
 ![]({static}/images/image031.png)
 ### Parent
 

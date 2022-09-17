@@ -2,8 +2,7 @@ title: What is a Knowing Hub (K-Hub)?
 save_as: whatiskhub.html
 lang: en
 menulabel:
-menuorder:
-![]({static}/images/ibis/issue.png)
+menuorder:contentclass: content-issue
 
 ### Parent
 
