@@ -1,8 +1,30 @@
 
 .issue::before {
-  content: url('../images/ibis/issue_sm.png')
+  content: url('../images/ibis/issue_sm.png');
+  margin-right: 0.4ex;
 }
 
 .position::before {
-  content: url('../images/ibis/position_sm.png')
+  content: url('../images/ibis/position_sm.png');
+  margin-right: 0.4ex;
+}
+
+h3.issue::before {
+  content: url('../images/ibis/issue.png');
+  margin-right: 0.4ex;
+}
+
+h3.position::before {
+  content: url('../images/ibis/position.png');
+  margin-right: 0.4ex;
+}
+
+.content-issue h1::before {
+  content: url('../images/ibis/issue.png');
+  margin-right: 0.5ex;
+}
+
+.content-position h1::before {
+  content: url('../images/ibis/position.png');
+  margin-right: 0.5ex;
 }
