@@ -1,4 +1,4 @@
-title: First Steps
+title: How do I Play SenseCraft?
 save_as: jonathan/first_steps.html
 lang: en
 menulabel:
@@ -16,4 +16,6 @@ slug:
 	
 	If you’ve already registered, click SIGN IN and enter your email and password. 
 
-1. When this step is complete, the SenseCraft [[Scoreboard]] will appear.
+3. When this step is complete, the SenseCraft [[Scoreboard]] will appear, showing you a list of [[Quest]]s being pursued by the [[Guild]]s in which you are a member.
+4. [[How Do i Visit a Quest]]?
+5. [[How Do I Join a Guild]]?

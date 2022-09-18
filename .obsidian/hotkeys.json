@@ -24,5 +24,14 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "U"
+    }
   ]
 }

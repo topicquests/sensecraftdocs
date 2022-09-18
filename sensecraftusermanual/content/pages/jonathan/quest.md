@@ -1,10 +1,10 @@
-title: Quests
+title: What is a Quest?
 save_as: jonathan/quest.html
 lang: en
 menulabel:
 menuorder:
 contentclass: content-issue
-slug:
+slug: "define quest"
 
 A Quest is a journey from a problem statement (an existing [[Node]]) to its solution (a new child [[Node]]). 
 
