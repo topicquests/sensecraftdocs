@@ -6,9 +6,12 @@ menuorder:
 contentclass: content-issue
 slug:
 
-SenseCraft is a social networking game, fåor which the purpose for playing is to learn **how** to best solve wicked problems and also to **solve** them.
+SenseCraft is a social networking game for solving [[wicked problems]] and for learning how to best solve them collaboratively.
 
-It accumulates a record of activity in a [[khub]], constructed of [[node]]s. Points are awarded for adding and for using nodes. Good practices are also rewarded, so as to encourage trust, reliability, robustness, and fun.
+All game activity is composed of [[Game Move]]s made during a [[Quest]] by a [[Guild]]. This activity is recorded as [[node]]s within [[KHub]]s.
 
-Activity is done through [[game moves]] made during a [[quest]] by one or more [[guild]]s.
+[[Game Point]]s are awarded for adding and for using nodes. Good practices are also rewarded, so as to encourage trust, reliability, robustness, and fun.
+
+Click here for your [[first steps]] to play the game.
+
 

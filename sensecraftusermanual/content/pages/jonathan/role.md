@@ -6,10 +6,20 @@ menuorder:
 contentclass: content-issue
 slug:
 
-Each role is responsible for specific aspects of the Guild’s internal conversation. They specify types of tasks to be performed by Guild members assigned to them. Typical roles include
+A role is a set of rules which govern which tasks and [[game move]]s a player assigned that role can or must perform.
 
+## Typical roles
 -   Leadership - required and automatic in each Guild.
 -   Game move planning
 -   Game move research
 
-Role players have private conversation spaces to conduct their tasks.
+---
+## Rules
+---
+
+### Leadership rules
+
+### Planning rules
+
+### Research rules
+

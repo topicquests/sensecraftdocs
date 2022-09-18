@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sensecraftusermanual/content/pages/jonathan/first steps.md",
+            "file": "sensecraftusermanual/content/pages/jonathan/guild.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sensecraftusermanual/content/pages/jonathan/first steps.md",
+                "file": "sensecraftusermanual/content/pages/jonathan/guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sensecraftusermanual/content/pages/jonathan/first steps.md",
+                "file": "sensecraftusermanual/content/pages/jonathan/guild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sensecraftusermanual/content/pages/jonathan/first steps.md"
+                "file": "sensecraftusermanual/content/pages/jonathan/guild.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "78edbc28bf996ac6",
   "lastOpenFiles": [
-    "sensecraftusermanual/content/images/khub.png",
-    "sensecraftusermanual/content/images/image033.png",
-    "sensecraftusermanual/content/images/image031.png",
-    "sensecraftusermanual/content/images/image027.png",
-    "sensecraftusermanual/content/images/image025.png",
-    "sensecraftusermanual/content/images/image013.png",
-    "sensecraftusermanual/content/images/image008.jpg",
-    "sensecraftusermanual/content/images/image007.png",
-    "sensecraftusermanual/content/images/image006.jpg",
-    "sensecraftusermanual/content/images/image005.png"
+    "sensecraftusermanual/content/pages/jonathan/game point.md",
+    "sensecraftusermanual/content/pages/jonathan/civility.md",
+    "sensecraftusermanual/content/pages/jonathan/scoreboard.md",
+    "sensecraftusermanual/content/pages/jonathan/rules.md",
+    "sensecraftusermanual/content/pages/jonathan/role.md",
+    "sensecraftusermanual/content/pages/jonathan/quest.md",
+    "sensecraftusermanual/content/pages/jonathan/node.md",
+    "sensecraftusermanual/content/pages/jonathan/jonathan.version.md",
+    "sensecraftusermanual/content/pages/jonathan/conversation space.md",
+    "sensecraftusermanual/content/pages/jonathan/guild.md"
   ]
 }
