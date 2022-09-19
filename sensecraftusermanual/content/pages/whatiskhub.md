@@ -3,12 +3,12 @@ save_as: whatiskhub.html
 lang: en
 menulabel:
 menuorder:contentclass: content-issue
-
-### Parent
-
-![]({static}/images/ibis/issue_sm.png) [What is Sensecraft?](whatissensecraft.html)
+parent1url: whatissensecraft.html
+parent1title: What is Sensecraft?
+parent1class: issue
 
 ### Details
+
 A Knowing Hub, or K-Hub, is a curated set of outcomes from Quests.  We anticipate two types of Quests:
 
 * Isolated Quests to develop novel solutions for specific problems.

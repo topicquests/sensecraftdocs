@@ -4,11 +4,12 @@ lang: en
 menulabel:
 menuorder:
 contentclass: content-issue
-
-### Parent
-![]({static}/images/ibis/issue_sm.png) [What is a Guild?](whatisguild.html)
+parent1url: whatisguild.html
+parent1title: What is a Guild?
+parent1class: issue
 
 ### Details
+
 Roles specify types of tasks to be performed by Guild members assigned to them. Role players have private conversation spaces to conduct their tasks, working together. Typical roles include
 
 * Leadership - required and automatic in each Guild.

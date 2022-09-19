@@ -4,8 +4,10 @@ menulabel:
 menuorder:
 lang: en
 contentclass: content-position
-### Parent
-![]({static}/images/ibis/issue_sm.png) [How to join a Guild?](howjoinguild.html)
+parent1url: howjoinguild.html
+parent1title: How to join a Guild?
+parent1class: issue
 
 ### Details
+
 TODO
