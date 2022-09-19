@@ -7,8 +7,7 @@ contentclass: content-position
 
 ![]({static}/images/image033.png)
 
-### Parent
-![]({static}/images/ibis/issue_sm.png) [How does Sensecraft deal with Authentication?](howauthenticate.html)
+### Parent: [How does Sensecraft deal with Authentication?](howauthenticate.html){.issue}
 
 ### Details
 

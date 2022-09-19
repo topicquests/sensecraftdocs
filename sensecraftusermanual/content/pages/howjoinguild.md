@@ -5,8 +5,7 @@ menuorder:
 lang: en
 contentclass: content-issue
 
-### Parent
-![]({static}/images/ibis/issue_sm.png) [How to use SenseCraft Quests?](usequests.html)
+### Parent: [How to use SenseCraft Quests?](usequests.html){.issue}
 
 ### Details
 
@@ -18,4 +17,6 @@ Not all Guilds can be joined. Some are
 For the most part, guilds will be Public.
 
 ### Responses
-![]({static}/images/ibis/position_sm.png) [Join a Guild](joinguild.html)
+
+* [Join a Guild](joinguild.html)
+{.position}
