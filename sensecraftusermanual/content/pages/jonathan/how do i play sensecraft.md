@@ -1,5 +1,5 @@
-title: How do I Play SenseCraft?
-save_as: jonathan/first_steps.html
+title: How Do I Play SenseCraft?
+save_as: jonathan/how_do_i_play_sensecraft.html
 lang: en
 menulabel:
 menuorder:
@@ -16,6 +16,10 @@ slug:
 	
 	If you’ve already registered, click SIGN IN and enter your email and password. 
 
-3. When this step is complete, the SenseCraft [[Scoreboard]] will appear, showing you a list of [[Quest]]s being pursued by the [[Guild]]s in which you are a member.
-4. [[How Do i Visit a Quest]]?
-5. [[How Do I Join a Guild]]?
+3. When this step is complete, the SenseCraft [[Dashboard]] will appear, showing you a list of [[Quest]]s being pursued by the [[Guild]]s in which you are a member.  The next three steps are also examples of [[Quest]]s. 
+
+4. [[How do I visit a Quest]]?  
+
+5. [[How do I join a Guild]]?  
+
+6. [[How do i create a Quest]]?  

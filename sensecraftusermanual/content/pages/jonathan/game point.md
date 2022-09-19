@@ -6,7 +6,7 @@ menuorder:
 contentclass: content-issue
 slug:
 
-Game Points reflect how much value you are adding to the game.
+Game Points reflect how much value you are adding to SenseCraft's other players.
 
 They are awarded for adding and for using [[node]]s.
 

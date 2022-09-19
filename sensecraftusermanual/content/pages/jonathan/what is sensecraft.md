@@ -8,7 +8,7 @@ slug: "define sensecraft"
 
 SenseCraft is a social networking game for solving [[what is a wicked problem|wicked problems]] and for learning how to best solve them collaboratively.
 
-All game activity is composed of [[Game Move]]s made during a [[Quest]] by a [[Guild]]. This activity is recorded as [[node]]s within [[KHub]]s.
+All game activity is composed of [[game move]]s made during a [[Quest]] by a [[Guild]]. This activity is recorded as [[node]]s within [[K-Hub]]s.
 
 [[Game Point]]s are awarded for adding and for using nodes. Good practices are also rewarded, so as to encourage trust, reliability, robustness, and fun.
 

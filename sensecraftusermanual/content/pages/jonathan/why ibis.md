@@ -1,5 +1,5 @@
-title: IBIS
-save_as: jonathan/ibis.html
+title: Why has SenseCraft Adopted IBIS?
+save_as: jonathan/why_ibis.html
 lang: en
 menulabel:
 menuorder:

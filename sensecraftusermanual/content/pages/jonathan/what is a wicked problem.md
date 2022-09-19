@@ -1,5 +1,5 @@
-title: What is a Wicked Problem
-save_as: jonathan/wicked_problems.html
+title: What is a Wicked Problem?
+save_as: jonathan/what_is_a_wicked_problem.html
 lang: en
 menulabel:
 menuorder:

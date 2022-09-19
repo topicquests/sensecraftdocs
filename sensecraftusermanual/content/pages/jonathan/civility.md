@@ -41,8 +41,8 @@ It's very easy to weaponize all of this. Ever felt disappointed when someone is 
 give yourself this many points | when you
 :---:|---
  1 | notice that you are upset
- 2 | remain rational
+ 2 | don't let your upset hijack your thinking
  3 | recover your equanimity
- 6 | all of the above for each upset
+ 6 | do all of the above for an upset
 
 If you find yourself with lots of rationality points, SenseCraft can convert them into [[game point]]s at your request.
