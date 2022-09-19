@@ -6,7 +6,7 @@ menuorder:
 contentclass: content-issue
 slug:
 
-A role is a set of rules which govern which tasks and [[game move|game move]]s a player assigned that role can or must perform.
+ Each role is describes and offers guidelines about specific aspects of a [[Guild]]'s internal conversation. A role is a set of rules which govern which tasks and [[game move|game move]]s a player assigned that role can or must perform.
 
 ## Typical roles
 -   Leadership - required and automatic in each Guild.

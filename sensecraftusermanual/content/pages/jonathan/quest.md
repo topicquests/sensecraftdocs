@@ -6,7 +6,7 @@ menuorder:
 contentclass: content-issue
 slug: "define quest"
 
-A Quest is a journey from a problem statement (an existing [[Node]]) to its solution (a new child [[Node]]). 
+A Quest is a journey from a [[problem statement]] (an existing [[Node]]) to its solution (a new child [[Node]]). 
 
 The problem statement is used to define and to inspire a _truth-seeking mission_. This mission is a large scale conversation, known as a D*ialogue Map*, and is recorded in the [[K-Hub]].
 

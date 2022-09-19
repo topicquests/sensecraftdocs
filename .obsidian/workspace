@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sensecraftusermanual/content/pages/jonathan/game move.md",
+            "file": "sensecraftusermanual/content/pages/jonathan/how do i create a quest.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sensecraftusermanual/content/pages/jonathan/game move.md",
+                "file": "sensecraftusermanual/content/pages/jonathan/how do i create a quest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sensecraftusermanual/content/pages/jonathan/game move.md",
+                "file": "sensecraftusermanual/content/pages/jonathan/how do i create a quest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sensecraftusermanual/content/pages/jonathan/game move.md"
+                "file": "sensecraftusermanual/content/pages/jonathan/how do i create a quest.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "78edbc28bf996ac6",
   "lastOpenFiles": [
-    "sensecraftusermanual/content/pages/jonathan/how do i create a quest.md",
+    "{static}/images/signin.register.png.md",
+    "{static}/images/image013.png.md",
+    "sensecraftusermanual/content/pages/howauthenticate.md",
     "sensecraftusermanual/content/pages/jonathan/quest.md",
+    "sensecraftusermanual/content/pages/jonathan/how do i create a quest.md",
+    "sensecraftusermanual/content/pages/jonathan/when should i create a quest.md",
+    "sensecraftusermanual/content/pages/jonathan/how do i play sensecraft.md",
     "sensecraftusermanual/content/pages/jonathan/guild.md",
-    "sensecraftusermanual/content/pages/jonathan/role.md",
-    "sensecraftusermanual/content/pages/jonathan/why ibis.md",
-    "sensecraftusermanual/content/pages/jonathan/game point.md",
-    "sensecraftusermanual/content/pages/jonathan/civility.md",
     "sensecraftusermanual/content/pages/jonathan/game move.md",
-    "sensecraftusermanual/content/pages/jonathan/conversation space.md",
-    "sensecraftusermanual/content/pages/jonathan/dashboard.md"
+    "sensecraftusermanual/content/pages/jonathan/how do i visit a quest.md"
   ]
 }

@@ -6,3 +6,4 @@ menuorder:
 contentclass: content-issue
 slug:
 
+In any of the places where SenseCraft displays a list of quests, click on the "view" or "admin" link. SenseCraft will show you a representation of the dialog map for the quest.
