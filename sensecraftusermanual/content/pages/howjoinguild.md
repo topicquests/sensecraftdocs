@@ -4,8 +4,9 @@ menulabel:
 menuorder:
 lang: en
 contentclass: content-issue
-
-### Parent: [How to use SenseCraft Quests?](usequests.html){.issue}
+parent1url: usequests.html
+parent1title: How to use SenseCraft Quests?
+parent1class: issue
 
 ### Details
 

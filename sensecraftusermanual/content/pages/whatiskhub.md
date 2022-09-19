@@ -3,8 +3,9 @@ save_as: whatiskhub.html
 lang: en
 menulabel:
 menuorder:contentclass: content-issue
-
-### Parent: [What is Sensecraft?](whatissensecraft.html){.issue}
+parent1url: whatissensecraft.html
+parent1title: What is Sensecraft?
+parent1class: issue
 
 ### Details
 

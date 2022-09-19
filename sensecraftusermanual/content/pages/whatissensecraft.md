@@ -4,10 +4,11 @@ menulabel:
 menuorder:
 lang: en
 contentclass: content-issue
+parent1url: ./usequests.html
+parent1title: How to use SenseCraft Quests?
+parent1class: issue
 
 ![]({static}/images/khub.png){.flr}
-
-### Parent: [How to use SenseCraft Quests?](./usequests.html){.issue}
 
 ### Details
 

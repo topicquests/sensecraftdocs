@@ -4,7 +4,9 @@ menulabel:
 menuorder:
 lang: en
 contentclass: content-position
-### Parent: [How to join a Guild?](howjoinguild.html){.issue}
+parent1url: howjoinguild.html
+parent1title: How to join a Guild?
+parent1class: issue
 
 ### Details
 

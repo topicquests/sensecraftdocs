@@ -4,8 +4,9 @@ menulabel:
 menuorder:
 lang: en
 contentclass: content-issue
-
-### Parent: [How to use SenseCraft Quests?](./howsensecraft.html){.issue}
+parent1url: ./howsensecraft.html
+parent1title: How to use SenseCraft Quests?
+parent1class: issue
 
 ### Details
 Authentication is the process of identifying yourself to the system. SenseCraft seeks to implement strong authentication as a safeguard against bad actors entering the K-Hub. 

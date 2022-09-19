@@ -4,8 +4,9 @@ lang: en
 menulabel:
 menuorder:
 contentclass: content-issue
-
-### Parent: [What is a Guild?](whatisguild.html){.issue}
+parent1url: whatisguild.html
+parent1title: What is a Guild?
+parent1class: issue
 
 ### Details
 

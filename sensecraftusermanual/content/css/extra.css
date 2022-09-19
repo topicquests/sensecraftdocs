@@ -19,6 +19,20 @@ h3.position::before {
   margin-right: 0.4ex;
 }
 
+.breadcrumb>li+li.issue::before,
+.breadcrumb>li+li.content-issue::before {
+  padding: 0 5px;
+  color: #cccccc;
+  content: "/\00a0" url('../images/ibis/issue_sm.png');
+}
+
+.breadcrumb>li+li.position::before,
+.breadcrumb>li+li.content-position::before  {
+  padding: 0 5px;
+  color: #cccccc;
+  content: "/\00a0" url('../images/ibis/position_sm.png');
+}
+
 .content-issue h1::before {
   content: url('../images/ibis/issue.png');
   margin-right: 0.5ex;

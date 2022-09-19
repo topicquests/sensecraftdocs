@@ -4,9 +4,9 @@ lang: en
 menulabel:
 menuorder:
 contentclass: content-issue
-
-
-### Parent: [What is Sensecraft?](whatissensecraft.html){.issue}
+parent1url: whatissensecraft.html
+parent1title: What is Sensecraft?
+parent1class: issue
 
 In the context of global-scale conversations, the *Dunbar Number* suggests limiting the number of people in a local portion of that conversation to a small number, and within that number, group still into smaller groups.
 

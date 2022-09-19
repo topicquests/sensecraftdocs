@@ -36,6 +36,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 STATIC_PATHS = ['css']
 CUSTOM_CSS = SITEURL + '/css/extra.css'
+DISPLAY_BREADCRUMBS = True
 
 # Blogroll
 LINKS = (('User Guide', 'usequests.html'), ('Jonathan', 'jonathan/jonathan.version.html'),
