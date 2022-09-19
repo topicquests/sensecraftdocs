@@ -29,6 +29,11 @@ h3.position::before {
   margin-right: 0.5ex;
 }
 
-body {
+.body {
   font-family: Times;
+}
+
+.flr {
+  float: right;
+  margin: 1em;
 }

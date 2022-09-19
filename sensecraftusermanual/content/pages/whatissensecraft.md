@@ -5,7 +5,7 @@ menuorder:
 lang: en
 contentclass: content-issue
 
-![]({static}/images/khub.png)
+![]({static}/images/khub.png){.flr}
 
 ### Parent: [How to use SenseCraft Quests?](./usequests.html){.issue}
 
