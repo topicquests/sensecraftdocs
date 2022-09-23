@@ -1,5 +1,5 @@
-title: Civility
-save_as: jonathan/civility.html
+title: Conversational literacy
+save_as: jonathan/conversational_literacy.html
 lang: en
 menulabel:
 menuorder:
@@ -8,7 +8,7 @@ slug:
 
 SenseQuest strongly encourages civility and conversational literacy, allowing players to accomplish more with more delight and less effort.
 
-Although, in simplest terms, it's just an **etiquette**, SenseCraft is asking a lot from players. When to talk and when to go quiet. How to listen. Be respectful. Stay relevant. It's a **philosophy** as well. An attitude that we are all creating the same single thing, knowing exactly what it is.
+Although, in simplest terms, it's just an **etiquette**, [[SenseCraft]] is asking a lot from players. When to talk and when to go quiet. How to listen. Be respectful. Stay relevant. It's a **philosophy** as well. An attitude that we are all creating the same single thing, knowing exactly what it is.
 
 ### Listening and talking
 
@@ -36,7 +36,7 @@ We are much more than our passions and skills. We have unique experiences, child
 
 ### Emotions
 
-It's very easy to weaponize all of this. Ever felt disappointed when someone is behaving uncivil? Does not calling them on it feel upsetting? SenseCraft assumes all of this is natural and normal. You can play a mini game with rationality points you give yourself:
+It's very easy to weaponize all of this. Ever felt disappointed when someone is behaving uncivil? Does not calling them on it feel upsetting? [[SenseCraft]] assumes all of this is natural and normal. You can play a mini game with rationality points you give yourself:
 
 give yourself this many points | when you
 :---:|---
@@ -45,4 +45,4 @@ give yourself this many points | when you
  3 | recover your equanimity
  6 | do all of the above for an upset
 
-If you find yourself with lots of rationality points, SenseCraft can convert them into [[game point]]s at your request.
+If you find yourself with lots of rationality points, [[SenseCraft]] can convert them into [[game point]]s at your request.

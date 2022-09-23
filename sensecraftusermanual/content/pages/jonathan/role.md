@@ -6,20 +6,23 @@ menuorder:
 contentclass: content-issue
 slug:
 
- Each role is describes and offers guidelines about specific aspects of a [[Guild]]'s internal conversation. A role is a set of rules which govern which tasks and [[game move|game move]]s a player assigned that role can or must perform.
+Each role is describes and offers guidelines about specific aspects of a [[Guild]]'s internal conversation. A role is a set of rules which govern which tasks and [[game move|game move]]s a player assigned that role can or must perform. New players may need to learn [[Skill]]s in order to adopt a Role. They should know what Role they want to play before joining a [[Guild]]. Each of these will have its own specialty documentation.
 
-## Typical roles
--   Leadership - required and automatic in each Guild.
--   Game move planning
--   Game move research
+## Basic Roles
+There are six basic Roles, each having specialized responsibilities, partially described here.
+
+Role | Responsibility
+:---:|---
+Leader | organize the [[Guild]], approve all [[Game Move]]s, invent new Roles
+Researcher | find supportive material
+Philosopher | help plan [[Game Move]]s and nurture epistemology**
+Scribe | convert [[K-Hub]] contents into a [[Narrative]]
+Critic | 
+Default | learn enough to adopt a role, banned from [[Guild]]s
+
+## Levels
+When a player adopts a Role, the are an Apprentice. As their experience grows, they level up.
 
 ---
-## Rules
----
 
-### Leadership rules
-
-### Planning rules
-
-### Research rules
-
+** Epistemology is the branch of philosophy that investigates the origin, nature, methods, and limits of human knowledge.

@@ -6,4 +6,4 @@ menuorder:
 contentclass: content-issue
 slug:
 
-Role players have private [[conversation space]]s to express their roles.
+[[Role]] players have private conversation spaces to express their [[role]]s.

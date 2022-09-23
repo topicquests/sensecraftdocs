@@ -17,8 +17,7 @@ MARKDOWN = {
         'markdown.extensions.wikilinks': {
             'base_url': './',
             'end_url': '.html'
-        },
-        'markdown.extensions.extra': {},
+        }
     }
 }
 PAGES_SORT_ATTRIBUTE = 'menuorder'
@@ -40,7 +39,7 @@ CUSTOM_CSS = SITEURL + '/css/extra.css'
 DISPLAY_BREADCRUMBS = True
 
 # Blogroll
-LINKS = (('User Guide', 'usequests.html'), ('Jonathan', 'jonathan/sensecraft.html'),
+LINKS = (('User Guide', 'usequests.html'), ('Jonathan', 'jonathan/jonathan.version.html'),
 )
 # Social widget
 # SOCIAL = (('You can add links in your config file', '#'),
