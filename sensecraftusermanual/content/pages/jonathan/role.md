@@ -6,7 +6,7 @@ menuorder:
 contentclass: content-issue
 slug:
 
-Each role is describes and offers guidelines about specific aspects of a [[Guild]]'s internal conversation. A role is a set of rules which govern which tasks and [[game move|game move]]s a player assigned that role can or must perform. New players may need to learn [[Skill]]s in order to adopt a Role. They should know what Role they want to play before joining a [[Guild]]. Each of these will have its own specialty documentation.
+Each role is describes and offers guidelines about specific aspects of a [[Guild]]'s internal conversation. A role is a set of rules which govern which tasks and [[game move]]s a player assigned that role can or must perform. New players may need to learn [[Skill]]s in order to adopt a Role. They should know what Role they want to play before joining a [[Guild]]. Each of these will have its own specialty documentation.
 
 ## Basic Roles
 There are six basic Roles, each having specialized responsibilities, partially described here.
