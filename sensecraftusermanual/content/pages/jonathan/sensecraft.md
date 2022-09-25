@@ -13,3 +13,6 @@ All game activity is composed of [[Game Move]]s made during a [[Quest]] by a [[G
 Let's pretend to play a [[Quest]]: [[How do I Play SenseCraft]]?
 
 As an aid to your understanding, some of our terms are defined in our [[Glossary]].
+
+> [!NOTE] Request for guidance
+> Marc-Antoine and Jack, your comments, corrections and additions will help me deliver a reliable and useful manual. May I ask that you please prefix them with your initials surrounded by square brackets?
