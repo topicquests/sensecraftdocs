@@ -1,5 +1,5 @@
 title: How do I Join a Guild?
-save_as: jonathan/how_do_i_join_a_guild.html
+save_as: jonathan/guild_join.html
 lang: en
 menulabel:
 menuorder:

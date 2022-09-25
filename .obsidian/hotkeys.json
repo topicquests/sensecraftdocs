@@ -33,5 +33,23 @@
       ],
       "key": "U"
     }
+  ],
+  "obsidian-dynamic-toc:dynamic-toc-insert-command": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-regex-replace:obsidian-regex-replace": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
   ]
 }

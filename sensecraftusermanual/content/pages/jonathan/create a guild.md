@@ -1,5 +1,5 @@
 title: When Should I and How Do I Create a Guild?
-save_as: jonathan/create_a_guild.html
+save_as: jonathan/guild_create.html
 lang: en
 menulabel:
 menuorder:
