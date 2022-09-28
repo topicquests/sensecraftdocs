@@ -1,5 +1,5 @@
 title: When Should I and How Do I Create a Quest?
-save_as: jonathan/quest_create.html
+save_as: jonathan/create_a_quest.html
 lang: en
 menulabel:
 menuorder:

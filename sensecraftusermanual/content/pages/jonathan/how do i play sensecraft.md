@@ -1,5 +1,5 @@
 title: How Do I Play SenseCraft?
-save_as: jonathan/sensecraft_play.html
+save_as: jonathan/how_do_i_play_sensecraft.html
 lang: en
 menulabel:
 menuorder:
