@@ -5,3 +5,5 @@ menulabel:
 menuorder:
 contentclass: content-issue
 slug: 
+
+[[Guild]] members must all adopt one or more [[Role]]s. 

@@ -32,17 +32,8 @@ Occasionally, sensitive topics arise because some of the problems we wish to res
 
 ### Relationships
 
-We are much more than our passions and skills. We have unique experiences, childhood traumas, medical histories. Each time we meet, we learn more about these individual facets. The more we pay attention, the deeper our **connections** and the more valuable and mature our **relationships**.
+We are much more than our passions and skills. We have unique experiences, childhood traumas, medical histories. Each time we meet, we learn more about these individual facets. The more we pay attention, the deeper our **connections** and the more valuable and mature our **relationships** and the deeper our **trust**. Planning and discussions may use less energy, fewer words and accomplish more powerful and more broadly effective results. You may feel more comfortable -- diving ever deeper into complex issues and interactions.
 
-### Emotions
+### Fun with Emotions
 
-It's very easy to weaponize all of this. Ever felt disappointed when someone is behaving uncivil? Does not calling them on it feel upsetting? [[SenseCraft]] assumes all of this is natural and normal. You can play a mini game with rationality points you give yourself:
-
-give yourself this many points | when you
-:---:|---
- 1 | notice that you are upset
- 2 | don't let your upset hijack your thinking
- 3 | recover your equanimity
- 6 | do all of the above for an upset
-
-If you find yourself with lots of rationality points, [[SenseCraft]] can convert them into [[game point]]s at your request.
+It's very easy to weaponize all of this. Ever felt disappointed when someone is behaving uncivil? Does not calling them on it feel upsetting? [[SenseCraft]] assumes all of this is natural and normal and offers a [[Fun]] game that directly focuses on this and helps you become masterful.

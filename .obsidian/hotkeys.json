@@ -1,12 +1,4 @@
 {
-  "obsidian-git:commit-specified-message": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "U"
-    }
-  ],
   "obsidian-git:pull": [
     {
       "modifiers": [
@@ -25,15 +17,6 @@
       "key": "M"
     }
   ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "U"
-    }
-  ],
   "obsidian-dynamic-toc:dynamic-toc-insert-command": [
     {
       "modifiers": [
@@ -50,6 +33,14 @@
         "Mod"
       ],
       "key": "F"
+    }
+  ],
+  "obsidian-git:commit-push-specified-message": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
     }
   ]
 }

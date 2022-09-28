@@ -21,7 +21,7 @@ Critic |
 Default | learn enough to adopt a role, banned from [[Guild]]s
 
 ## Levels
-When a player adopts a Role, the are an Apprentice. As their experience grows, they level up.
+When a player adopts a Role, the are an Apprentice. As their experience grows, they [[level up]].
 
 ---
 

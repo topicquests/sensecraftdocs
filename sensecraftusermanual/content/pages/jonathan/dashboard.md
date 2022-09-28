@@ -6,4 +6,4 @@ menuorder:
 contentclass: content-issue
 slug:
 
-[[Game Point]]s are constantly being summed up for each quest and for each player. The Dashboard displays these sums.
+[[points]]s are constantly being summed up for each quest and for each player. The Dashboard displays these sums.

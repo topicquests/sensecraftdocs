@@ -6,7 +6,7 @@ menuorder:
 contentclass: content-issue
 slug:
 
-Problems and questions that are complex, ill-defined and have enormous impact are known as Wicked (which denotes resistance to resolution, rather than evil). They are difficult or impossible to solve because of incomplete, contradictory, and changing requirements that are often difficult to recognize. They cannot be fixed, where there is no single solution to the problem or no determinable stopping point. Moreover, because of complex interdependencies, the effort to solve one aspect of a wicked problem may reveal or create other problems.
+Problems and questions that are complex, ill-defined and have enormous impact are known as **Wicked** (which denotes resistance to resolution, rather than evil). They are difficult or impossible to solve because of incomplete, contradictory, and changing requirements that are often difficult to recognize or because a stopping point cannot be adequately specified. Moreover, because of complex interdependencies, the effort to solve one aspect of a **Wicked** problem may reveal or create other problems.
 
 [[Quest]]s are [[SenseCraft]]'s way of pursuing them.
 
