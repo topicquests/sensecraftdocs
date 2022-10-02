@@ -10,4 +10,7 @@ Problems and questions that are complex, ill-defined and have enormous impact ar
 
 [[Quest]]s are [[SenseCraft]]'s way of pursuing them.
 
-For example, how can we make it attractive to the wealthy for them to inject enormous funds into programs that fulfill popular needs? Or, how can we make it fun for people to learn civility without revealing that that is what [[SenseCraft]] is all about?
+### Jonathan's Proposed List
+- How can we make it attractive to the monied wealthy for them to inject enormous funds into programs that fulfill popular needs?
+- How can we make it fun for people to learn civility without revealing that that is what [[SenseCraft]] is all about?
+- How do we prevent those players who possess a wealth of points from dominating the game, while at the same time giving them something to "buy" with their points?

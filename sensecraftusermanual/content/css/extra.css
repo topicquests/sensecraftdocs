@@ -9,6 +9,19 @@
   margin-right: 0.4ex;
 }
 
+th, td {
+  border: 1px solid;
+#  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+table {
+  border: 1px solid;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 h3.issue::before {
   content: url('../images/ibis/issue.png');
   margin-right: 0.4ex;

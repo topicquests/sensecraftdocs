@@ -11,8 +11,10 @@ JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n']
 }
 
+from markdown.extensions.tables import TableExtension
+
 MARKDOWN = {
-    'extensions': ['wikilinks', 'attr_list'],
+    'extensions': ['wikilinks', 'attr_list', TableExtension()],
     'extension_configs': {
         'markdown.extensions.wikilinks': {
             'base_url': './',

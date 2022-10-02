@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sensecraftusermanual/content/pages/jonathan/role.md",
+            "file": "sensecraftusermanual/content/pages/jonathan/fun.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sensecraftusermanual/content/pages/jonathan/role.md",
+                "file": "sensecraftusermanual/content/pages/jonathan/fun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sensecraftusermanual/content/pages/jonathan/role.md",
+                "file": "sensecraftusermanual/content/pages/jonathan/fun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sensecraftusermanual/content/pages/jonathan/role.md"
+                "file": "sensecraftusermanual/content/pages/jonathan/fun.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "78edbc28bf996ac6",
   "lastOpenFiles": [
-    "sensecraftusermanual/content/pages/jonathan/guild.md",
+    "sensecraftusermanual/content/pages/jonathan/wicked problem.md",
+    "sensecraftusermanual/content/pages/jonathan/points.md",
+    "sensecraftusermanual/content/pages/jonathan/fun.md",
+    "Untitled.md",
     "sensecraftusermanual/content/pages/jonathan/k-hub.md",
+    "sensecraftusermanual/content/pages/jonathan/role.md",
+    "sensecraftusermanual/content/pages/jonathan/guild.md",
     "sensecraftusermanual/content/pages/jonathan/create a quest.md",
     "sensecraftusermanual/content/pages/jonathan/level up.md",
-    "sensecraftusermanual/content/pages/jonathan/how do i visit a quest.md",
-    "sensecraftusermanual/content/pages/jonathan/how do i play sensecraft.md",
-    "sensecraftusermanual/content/pages/jonathan/how do i join a guild.md",
-    "sensecraftusermanual/content/pages/jonathan/sensecraft.md",
-    "sensecraftusermanual/content/pages/jonathan/fun.md",
-    "sensecraftusermanual/content/pages/jonathan/game move.md"
+    "sensecraftusermanual/content/pages/jonathan/how do i visit a quest.md"
   ]
 }
