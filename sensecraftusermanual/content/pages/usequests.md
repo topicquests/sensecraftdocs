@@ -5,7 +5,7 @@ menulabel:
 menuorder:
 contentclass: content-issue
 
-![]({static}/images/image013.png)
+![]({static}/images/image013.png){.flr}
 
 ### Details
 
