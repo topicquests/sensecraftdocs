@@ -7,6 +7,7 @@ parent1url: whatissensecraft.html
 parent1title: What is Sensecraft?
 parent1class: issue
 
+
 ### Details
 
 A Knowing Hub, or K-Hub, is a curated set of outcomes from Quests.  We anticipate two types of Quests:
