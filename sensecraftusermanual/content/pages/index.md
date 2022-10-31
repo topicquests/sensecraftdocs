@@ -1,4 +1,4 @@
-title: SenseCraft Manual
+title: SenseCraft Manual - Work in Progress
 menulabel: home
 menuorder: 0
 slug:
