@@ -1,4 +1,4 @@
-title: How does Sensecraft deal with Authentication?
+title: How does SenseCraft deal with Authentication?
 save_as: howauthenticate.html
 menulabel:
 menuorder:

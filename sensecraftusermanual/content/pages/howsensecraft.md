@@ -16,7 +16,7 @@ Once you are a member, you can join a Guild and then participate in Quests chose
 
 ### Responses
 
-* [How does Sensecraft deal with Authentication?](howauthenticate.html)
+* [How does SenseCraft deal with Authentication?](howauthenticate.html)
 {.issue}
 * [How to Join a Guild?](howjoinguild.html)
 {.issue}

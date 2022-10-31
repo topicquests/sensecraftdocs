@@ -8,7 +8,7 @@ parent1url: howauthenticate.html
 parent1title: How does Sensecraft deal with Authentication?
 parent1class: issue
 
-![]({static}/images/image031.png)
+![]({static}/images/image031.png){.flr}
 
 ### Details
 
