@@ -4,7 +4,7 @@ menulabel:
 menuorder:
 lang: en
 contentclass: content-position
-parent1url: whatisguild.html
+parent1url: whatisquest.html
 parent1title: What is a Quest?
 parent1class: issue
 

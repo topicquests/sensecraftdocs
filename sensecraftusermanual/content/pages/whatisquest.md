@@ -20,3 +20,5 @@ A Quest’s conversation is known as a D*ialogue Map*; it is not an *Argument Ma
 
 * [Truth Seeking Mission](truthseeking.html)
 {.position}
+* [Conversation includes Debates](conversationdebate.html)
+{.position}
