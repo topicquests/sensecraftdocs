@@ -9,18 +9,13 @@ parent1title: What is Sensecraft?
 parent1class: issue
 
 ### Details
-
-In the context of global-scale conversations, the *Dunbar Number* suggests limiting the number of people in a local portion of that conversation to a small number, and within that number, group still into smaller groups.
-
-SenseCraft Guilds are private spaces for small groups to work together to contribute to the large scale conversation known as a Quest. Inside that Guild, small groups play different roles to keep specific aspects of the Guild’s internal conversation needs to local specialists: *role players*.
-
-In SenseCraft, Guilds are now divided into two categories:
+What does the concept of a Guild provide to SenseCraft, and what types of Guilds does SenseCraft offer?
 ### Responses
 
+* [Private Working Space for Role Players](privatespace.html)
+{.position}
 * [Community of Practice (CoP)](cop.html)
 {.position}
 * [Teams](team.html)
 {.position}
 
-* [What are Guild Roles?](whatareroles.html)
-{.issue}
