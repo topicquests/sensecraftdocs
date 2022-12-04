@@ -15,11 +15,11 @@ In the context of global-scale conversations, the *Dunbar Number* suggests limit
 SenseCraft Guilds are private spaces for small groups to work together to contribute to the large scale conversation known as a Quest. Inside that Guild, small groups play different roles to keep specific aspects of the Guild’s internal conversation needs to local specialists: *role players*.
 
 In SenseCraft, Guilds are now divided into two categories:
-#### Teams
-Teams, by contrast, are not differentiated by area of interest, but rather are very useful for those who simply want to become proficient as Guild Members.
 ### Responses
 
 * [Community of Practice (CoP)](cop.html)
+{.position}
+* [Teams](team.html)
 {.position}
 
 * [What are Guild Roles?](whatareroles.html)
