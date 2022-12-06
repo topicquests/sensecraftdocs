@@ -11,8 +11,9 @@ parent1class: issue
 ![]({static}/images/a-role.png){.flr}
 ### Details
 
-Roles specify types of tasks to be performed by Guild members assigned to them. Role players have private conversation spaces to conduct their tasks, working together. Typical roles include
+Roles in *role-playing games* are an important aspect of SenseCraft. What are they? What types of roles exist?
 
-* Leadership - required and automatic in each Guild.
-* Game move planning
-* Game move research
+### Responses
+
+* [Guild Roles](roles.html)
+{.position}
