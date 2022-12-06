@@ -20,7 +20,4 @@ SenseCraft is fundamentally a Web portal known as a *Knowing Hub* (K-Hub). A K-H
 
 * [What is a K-Hub?](./whatiskhub.html)
 {.issue}
-* [What is a Quest?](./whatisquest.html)
-{.issue}
-* [What is a Guild?](./whatisguild.html)
-{.issue}
+
