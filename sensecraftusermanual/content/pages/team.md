@@ -12,5 +12,4 @@ parent1class: issue
 
 ### Details
 
-Teams, by contrast to Communities of Practice, are not differentiated by area of interest, but rather are very useful for those who simply want to become proficient as Guild Members.
-
+Teams are a subset of a playing guild that is designated to play in a given quest.
